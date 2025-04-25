@@ -1,0 +1,221 @@
+# Auto-generated Mapping for px-old-scripts/px_script_9.2.7.js
+
+AEI3BkUsNTQ==Unary Op (!): [Unary Op (!): [Property Access: Element.prototype.attachShadow]]
+AWN2J0cNfxI==Unknown Function()
+Ahw1WEd2Nmk==Unary Op (!): [Unary Op (!): [Property Access: window["fmget_targets"]]]
+Ahw1WEdxM2g==Unknown Function()
+Ahw1WEdyM2s==Literal: true
+Ahw1WEdyMmI==Constant Variable: l = Empty Object {}
+Az10eUZTdk4==Property Access: r.browser
+BF4zGkEwMik==Property Access: ea["platform"]
+BX9yO0ARcwk==Property Access: ea["model"]
+BX9yO0AVcgs==Unary Op (!): [Unary Op (!): [Property Access: document["__webdriver_script_fn"]]]
+BX9yO0AXew4==Unary Op (!): [Unary Op (!): [Property Access: window["showModalDialog"]]]
+BX9yO0MRcA8==Unary Op (!): [Unary Op (!): [Property Access: window["Buffer"]]]
+BzlwfUFUeE4==Property Access: navigator["languages"]
+CFo/Hk0xPSU==Unknown Function()
+CXt+P08UeQQ==Property Access: navigator["appCodeName"]
+CXt+P0wWfw8==Variable: ym
+ChQ9UE9+P2Y==Conditional: (Binary Op (in): [Literal: "webdriver"] and [Variable: navigator]) ? (Literal: 1) : (Literal: 0)
+ChQ9UE97Omo==Property Access: n.locationKeys
+ChQ9UEx3NWM==Conditional: (AST Node Type: LogicalExpression) ? (Method Call: Property Access: Object["keys"](Property Access: window["chrome"])) : (Array: [])
+DFY7Ekk4Pyc==Literal: true
+DFY7Ekk7PSE==Unary Op (!): [Unary Op (!): [Function: Xn()]]
+DFY7Ekk9PiM==Unknown Function()
+DFY7Eko5MyA==Method Call: Property Access: <Unknown Base>["substring"](Literal: 0, Literal: 40)
+DXd6M0gZegk==Property Access: ea["brands"]
+DXd6M0gZewI==Property Access: ea["uaFullVersion"]
+DXd6M0gaewI==Random ID (fa)
+DXd6M0gceAI==Conditional: (Property Access: document["referrer"]) ? (Function: encodeURIComponent(Property Access: document["referrer"])) : (Literal: "")
+DXd6M0sYfAQ==Literal: true
+DhA5VEt5PWc==Property Access: navigator["connection"]["rtt"]
+DhA5VEt9Pmc==Method Call: Property Access: <Unknown Base>["some"](AST Node Type: FunctionExpression)
+DzF4dUpYcUU==Property Access: e.webglVendor
+DzF4dUpYf0I==Property Access: n.docAttributes
+EFInFlU7ISw==Function: ne(Literal: "navigator", Literal: "webdriver")
+EXNmN1cQbgM==Binary Op (===): [Method Call: Property Access: navigator["plugins"]["item"](Literal: 4294967296)] and [Property Access: navigator["plugins"].<Computed>]
+EmwlaFQCI10==Property Access: e.webglRenderer
+EmwlaFcBI10==Unary Op (!): [Unary Op (!): [Property Access: window["AudioTrack"]]]
+Ew1kCVVgZjo==Property Access: navigator["deviceMemory"]
+Ew1kCVVlbD0==Property Access: n.navigatorKeys
+FC4jKlFAJho==Method Call: Property Access: navigator["share"]["toString"]()
+FU9iS1MiZn4==Function: ne(Literal: "navigator", Literal: "languages")
+FwlgDVFraDs==Generated Stack Trace
+GCovLl1BJxw==Conditional: (Binary Op (===): [Function: t(Navigator Property: navigator.maxTouchPoints)] and [Literal: "number"]) ? (Navigator Property: navigator.maxTouchPoints) : (Conditional: (Binary Op (===): [Function: t(Navigator Property: navigator.msMaxTouchPoints)] and [Literal: "number"]) ? (Navigator Property: navigator.msMaxTouchPoints) : (Literal: undefined))
+GCovLl5HJhg==Unknown Function()
+GmQtYF8JK1s==Unknown Function()
+GmQtYF8KKFs==Literal: true
+GwVsAV1qbzE==Function: $t(Function: Kt(Property Access: window["safari"]))
+GwVsAV5rbTo==Unknown Function()
+HCYrIlpEKxg==Property Access: navigator["productSub"]
+HCYrIlpILRE==Property Access: navigator["connection"]["effectiveType"]
+HCYrIlpOLBI==Property Access: navigator["connection"]["saveData"]
+HUdqQ1gpbHc==Unary Op (!): [Unary Op (!): [Property Access: navigator["brave"]]]
+ICJXJmVPUh0==Constant Variable: a = AST Node Type: LogicalExpression
+IUMWR2QuFnQ==Literal: "Op0a"
+InxVeGQSVkw==Property Access: e.extensions
+InxVeGcSVE0==Unknown Function()
+InxVeGcUUEw==Variable: R
+Ix0UGWVwFyk==Property Access: Yt["fontFromResourceApi"]
+Ix0UGWVxFSI==Literal: true
+Ix0UGWZzEiM==Variable: Ks
+JV8SW2AxGms==Variable: f
+JV8SW2MxGmo==Property Access: navigator["language"]
+JV8SW2MyFmA==Unknown Function()
+JnhRfGMVUUs==Literal: "G3GDl"
+JnhRfGMWWU0==Constant Variable: h = Empty Object {}
+JxkQHWF2ECY==Property Access: Yt["cssFromStyleSheets"]
+JxkQHWJ0EC8==Constant Variable: a = Object Literal (1 properties)
+JxkQHWJ3FSs==Constant Variable: a = Function: fl(Variable: ia, Property Access: Object["getOwnPropertyDescriptors"])
+JxkQHWJyGC4==Property Access: navigator["product"]
+KDpfPm1TXgQ==Function: vh(Variable: document, Constant Variable: Fo = Array: [Literal: "onrejectionhandled", Literal: "onunhandledrejection", Literal: "getOve...] (114 items))
+KVseX2wxF28==Literal: "undefined"
+KVseX2wxHW0==Property Access: n.windowKeys
+KnRdcG8fWEA==Variable: Xm
+KnRdcGwcVUY==Binary Op (===): [Property Access: navigator["plugins"].<Computed>] and [Property Access: navigator["plugins"].<Computed>.<Computed>["enabledPlugin"]]
+KxUcEW15Hys==Unary Op (!): [Unary Op (!): [Property Access: window["__nightmare"]]]
+LDZbMmlYXwg==Unary Op (!): [Unary Op (!): [Property Access: navigator["userAgentData"]]]
+LDZbMmlZWQA==Cookie 'cs' computed key variable (ma)
+LnBZdGgSWkM==Constant Variable: e = Variable: pm
+LnBZdGsYXkE==Payload Send Timestamp (Ea)
+M20EKXYDDRw==Console Stack Manipulation Counter (ua)
+MDJHNnVcRgw==Method Call: Property Access: <Unknown Base>.<Computed>(Window Property: <Computed>)
+MDJHNnZaQgI==Unary Op (!): [Unary Op (!): [Property Access: window["Worklet"]]]
+MDJHNnZdQgY==Function: vh(Variable: window, Constant Variable: Vo = Array: [Literal: "closed", Literal: "devicePixelRatio", Literal: "getSelection", Literal...] (170 items))
+MVMGV3Q6AmU==Function: Ht(Constant Variable: Bi = Array: [], Property Access: r.<Computed>)
+MkxFCHQiRzg==Variable: C
+MkxFCHQvQTo==Method Call: Property Access: window["Date"]()
+MkxFCHciQjM==Constant Variable: p = Object Literal (2 properties)
+MkxFCHckRD4==Property Access: navigator["appVersion"]
+N2kALXIHBx4==Function: $t(Binary Op (+): [Literal: ""] and [Constant Variable: i = Method Call: Property Access: document["featurePolicy"]["allowedFeatures"]()])
+NS8Ca3BAB10==Block Script Response Value (ba)
+NS8Ca3BBBV8==Property Access: window["styleMedia"]["type"]
+NS8Ca3NMAFA==Unknown Function()
+NkhBCnQm=Variable: eu
+NkhBDHMiQz8==Constant Variable: X = AST Node Type: LogicalExpression
+O2UMIX0NCxI==Function: xt(Constant Variable: r = Function: za(), Constant Variable: t = Navigator Property: navigator.userAgent)
+O2UMIX4LChQ==Literal: "wk"
+OApPTn1gT3w==Binary Op (===): [Binary Op (+): [Property Access: navigator["geolocation"]] and [Literal: ""]] and [Function: Bh(Literal: 253)]
+OApPTn1kRnk==Unknown Function()
+OSsOb3xBD1U==Cookie 'sid' Variable (va)
+OSsOb3xFD1g==Unknown Function()
+OSsOb3xFDFk==Unknown Function()
+P2EIJXkCCxA==Property Access: Yt["imgFromResourceApi"]
+PAZLQnloT3U==Unknown Function()
+PAZLQnpkQnE==Property Access: Yt["cssFromResourceApi"]
+PAZLQnpoTHY==Variable: oe
+PScKY3hKDVM==Unary Op (!): [AST Node Type: LogicalExpression]
+PScKY3tFCVk==Unary Op (!): [Unary Op (!): [Property Access: window["caches"]]]
+PkBJBHspSTI==Variable: M
+PkBJBHsuTzQ==Literal: true
+Q300OQURNA4==Unknown Function()
+Q300OQUTMg8==Property Access: window["orientation"]
+QAJ3RgVsd3U==Function: $a()
+QAJ3RgVsfnw==Current Script Source (sa)
+RB5zWgFwcW8==Unknown Function()
+RB5zWgJwcm0==Unary Op (!): [Unary Op (!): [Property Access: window["spawn"]]]
+RT8yewBRM0s==Property Access: ea["platformVersion"]
+RT8yewBRMk4==Property Access: ea["bitness"]
+RlhxHAAweSc==Unary Op (!): [Unary Op (!): [Property Access: window["geb"]]]
+RlhxHAM2eSo==Literal: true
+SBp/Xg53d2g==Unary Op (!): [Unary Op (!): [Property Access: window["v8Locale"]]]
+STs+fw9VPUk==Property Access: e.shadingLangulageVersion
+STs+fw9VPkU==Function: $t(Function: Kt(Constant Variable: Kf = Property Access: window["chrome"]))
+STs+fw9YOk4==Constant Variable: F = AST Node Type: LogicalExpression
+STs+fwxWPk8==Array: [Literal: true]
+SlR9EA8/fiA==Property Access: e.webGLVersion
+T3E4NQkfOg4==Property Access: Ht["usedJSHeapSize"]
+T3E4NQoZMAY==Function: $t(Function: Kt(Property Access: window["yandex"]))
+T3E4NQoZPQY==Property Access: n.documentKeys
+T3E4NQocOA4==Function: Bh(Literal: 343)
+T3E4NQofMAY==Method Call: Property Access: JSON["stringify"](Property Access: window["Notification"]["permission"])
+TBZ7Ugl8eWg==Constant Variable: k = AST Node Type: LogicalExpression
+TBZ7Ugp+cmA==Unknown Function()
+TTc6cwtUPkY==Unknown Function()
+TlB5FAs+fSI==Unary Op (!): [AST Node Type: LogicalExpression]
+U00kSRUuJXk==Unary Op (!): [Unary Op (!): [Property Access: window["ActiveXObject"]]]
+UBJnVhV6YmY==Property Access: e.unmaskedVendor
+UBJnVhV8b2w==Variable: qs
+UTMmdxRaIkw==Unary Op (!): [Unary Op (!): [Property Access: ut["navigator.webdriver"]]]
+UTMmdxRcJUQ==Unknown Function(Variable: window)
+UTMmdxRcJk0==Constant Variable: O = Array: []
+UTMmdxRcLkQ==Function: vh(Variable: navigator, Constant Variable: Bo = Array: [Literal: "appCodeName", Literal: "appName", Literal: "Bluetooth", Literal: "Clip...] (32 items))
+UTMmdxRdIUI==Variable: r
+UTMmdxRdLkI==Binary Op (>): [Method Call: Property Access: m["outerHTML"]["indexOf"](Literal: "capture")] and [Unary Op (-): [Literal: 1]]
+UTMmdxReJ0Q==Variable: gm
+VG5jahEDZVA==Conditional: (Property Access: document["body"]) ? (Unary Op (!): [Unary Op (!): [Property Access: document["body"]["scrollIntoViewIfNeeded"]]]) : (Literal: undefined)
+VG5jahIDa1s==Property Access: navigator["connection"]["downlink"]
+VQ8iCxBkJDA==Variable: ce
+VQ8iCxBlKjo==Function: ne(Literal: "navigator", Literal: "plugins")
+VihhLBBFZR8==Function: $t(Binary Op (+): [Function: Kt(Property Access: window["opr"])] and [Function: Kt(Property Access: window["opera"])])
+VihhLBBHZBs==Property Access: e.unmaskedRenderer
+W0UsQR4rJXA==Unknown Function()
+W0UsQR4rLnU==Property Access: r.device
+W0UsQR4tJHQ==Binary Op (+): [Binary Op (+): [Constant Variable: F = AST Node Type: LogicalExpression] and [Literal: "X"]] and [Constant Variable: B = AST Node Type: LogicalExpression]
+W0UsQR4uLnI==Binary Op (+): [Property Access: navigator["webdriver"]] and [Literal: ""]
+WQsuDxxlKzs==Literal: true
+WiRtIB9KaBo==Literal: true
+WiRtIB9Mbhc==Unary Op (!): [Unary Op (!): [Property Access: navigator["sendBeacon"]]]
+WiRtIB9PbhU==Unary Op (!): [Unary Op (!): [AST Node Type: LogicalExpression]]
+WiRtIBxIaxY==Unknown Function()
+WiRtIBxJaRc==Constant Variable: wu = AST Node Type: LogicalExpression
+WiRtIBxJaho==Unknown Function()
+XQcqAxhpLzQ==Constant Variable: I = Empty Object {}
+YGIXZiYOHlU==Unary Op (!): [Unary Op (!): [Property Access: window["AudioWorkletNode"]]]
+YjwVOCRQEQw==Function: xt(VID Variable (tt), Constant Variable: t = Navigator Property: navigator.userAgent)
+Z1lQXSE1WG8==Function: vh(Variable: location, Constant Variable: Xo = Array: [Literal: "ancestorOrigins", Literal: "fragmentDirective"])
+ZH4TeiEQGkw==Unary Op (!): [AST Node Type: LogicalExpression]
+ZH4TeiIQFk0==Property Access: Ht["jsHeapSizeLimit"]
+ZR9SGyB0VSA==Unknown Function()
+ZjgRPCBQEQ0==Unary Op (!): [Unary Op (!): [Property Access: window["emit"]]]
+ZjgRPCBbEgc==Unary Op (!): [Unary Op (!): [Property Access: window["_Selenium_IDE_Recorder"]]]
+a1VcUS05XGI==Cookie 'cs' Variable (pa)
+aHoffi4SGk4==Property Access: e.canvasfp
+aRteHy95Wik==Function: Ht(Constant Variable: Fi = Array: [], Property Access: r.<Computed>)
+aRteHyxzXS0==Unknown Function()
+ajQdMC9aFQI==Method Call: Property Access: <Unknown Base>["substring"](Literal: 0, Literal: 1024)
+ajQdMCxXFAo==Literal: true
+b1FYVSo/WWM==Unknown Function()
+b1FYVSo4W2M==Variable: Nm
+bRdaEyh+XCE==Property Access: ut["navigator.userAgent"]
+bRdaEyh4Xyk==Property Access: navigator["platform"]
+bRdaEyh6XCU==Unary Op (!): [Unary Op (!): [Property Access: window["cookieStore"]]]
+bRdaEyh9Xig==Property Access: e.webglParameters
+bRdaEyt/XiY==Unknown Function()
+cHIHdjUcB00==Property Access: ea["mobile"]
+cRNGFzd7Qiw==Document Visibility State
+cy1EaTVAQVo==Function: Lh(Property Access: window["outerHeight"])
+cy1EaTZFQFs==Unary Op (!): [Unary Op (!): [Property Access: window["awesomium"]]]
+cy1EaTZGR10==Variable: w
+dE4DCjEgBjs==Property Access: <Unknown Base>["timeZone"]
+dE4DCjEnBDA==Unknown Function()
+dW9CKzACRRk==Unknown Function()
+dW9CKzMMQh0==Function: xt(Function: qr(), Constant Variable: t = Navigator Property: navigator.userAgent)
+dggBTDNhCXg==Variable: ie
+dylAbTJERl8==Constant Variable: a = AST Node Type: LogicalExpression
+eEoPDj0kCTw==Literal: true
+eEoPDj4pDD8==Property Access: Ht["totalJSHeapSize"]
+eWtOLz8HSxk==Property Access: navigator["userAgent"]
+eWtOLzwDSx0==Variable: ta
+eWtOLzwETBs==Unary Op (!): [Unary Op (!): [Property Access: window["AudioWorklet"]]]
+eWtOLzwFTh4==Function: xt(Property Access: e.extensions)
+eWtOLzwFTh8==Function: xt(Property Access: e.webglParameters)
+egQNQD9pC3Q==Unary Op (!): [Unary Op (!): [Property Access: navigator["serial"]]]
+egQNQD9pC3c==Unary Op (!): [Unary Op (!): [Property Access: window["webkitSpeechRecognition"]]]
+egQNQD9qCXs==Property Access: navigator["pdfViewerEnabled"]
+egQNQDxnD3M==Property Access: navigator["appName"]
+egQNQDxqDHU==Unary Op (!): [Unary Op (!): [Property Access: window["isSecureContext"]]]
+eyVMYT5PSVM==Function: Lh(Property Access: window["outerWidth"])
+fEYLAjkoCzY==Property Access: ea["architecture"]
+fEYLAjoqAzE==Constant Variable: B = AST Node Type: LogicalExpression
+fWdKIzgJSxc==Unknown Function()
+fgAJRDhsAH4==Property Access: navigator["buildID"]
+fgAJRDhuCnU==Unary Op (!): [AST Node Type: LogicalExpression]
+fgAJRDtuDHE==Literal: true
+gecko=Literal: 5
+presto=Literal: 2
+testDefaultPath=Literal: false
+timeout=Literal: 15000
+trident=Literal: 5
+value=Function: Xr(Property Access: e["value"], Variable: f)
+webkit=Literal: 5
